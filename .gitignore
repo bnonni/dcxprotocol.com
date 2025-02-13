@@ -23,3 +23,5 @@ coverage/
 DATA/
 DATASTORE/
 __TEST_DATA__/
+
+.npmrc
